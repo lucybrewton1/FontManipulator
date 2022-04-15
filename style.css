@@ -1,0 +1,30 @@
+.heading {
+    background-color: darkolivegreen;
+    width: 100%;
+    margin-top: 0px;
+    padding: 10px;
+    color: white;
+    margin-bottom: 75px;
+}
+.heading p {
+    font-size: 17px;
+}
+.heading h2 {
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 2px;
+}
+.footer {
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    background-color: darkgreen;
+    color: white;
+    padding: 5px;
+    font-family: 'PT Sans', sans-serif;
+}
+canvas {
+    border: solid 2px black;
+    box-shadow: 1px 1px 30px gray;
+    margin-left: 5px;
+}
